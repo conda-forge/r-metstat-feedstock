@@ -1,11 +1,11 @@
-About r-metstat
-===============
+About r-metstat-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-metstat-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=MetStaT
 
 Package license: Apache (== 2.0)
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-metstat-feedstock/blob/main/LICENSE.txt)
 
 Summary: A diverse collection of metabolomics related statistical tools.
 
